@@ -5,7 +5,6 @@ as this is settings I prefer to program with.
 
 ## Fonts modified
 
-* __Envy Code R__ (included Visual Studio special version)
 * __Monaco__ (the old one, without ligatures)
 
 ## Notes
